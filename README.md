@@ -1,4 +1,4 @@
 PIWIK-AIO
 ------------------------------------------
 
-Currently under development please don't use it.
+Currently under development please don't use it :)
